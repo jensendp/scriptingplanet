@@ -124,9 +124,9 @@ There are actually ways that you can have the heavy lifting of <a href="https://
 
 The typical flow of web applications looks something like this:
 
-![TypeScript in Browser](/img/typescript-deploy.jpg)
-
-<br/>
+<p align="center">
+<img src="/img/typescript-deploy.jpg" />
+</p>
 
 The web application is written in TypeScript. The build process takes place either on a development machine or more typically on a build server somewhere and the resulting application, transpiled into JavaScript is hosted in a CDN somewhere.
 
@@ -134,9 +134,9 @@ Then, when the user opens the application in the browser, the browser downloads 
 
 This flow can change to something like this:
 
-![TypeScript in browser](img/typescript-direct-deploy.jpg)
-
-<br/>
+<p align="center">
+<img src="/img/typescript-direct-deploy.jpg" />
+</p>
 
 Where the TypeScript code is not transpiled in advance and just loaded into the CDN directly. From there, when the user opens the application in the browser, the browser downloads the application code from the CDN, transpiles it into JavaScript, loads the resulting JavaScript, and everyone is happy.
 

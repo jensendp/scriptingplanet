@@ -126,7 +126,7 @@ The typical flow of web applications looks something like this:
 
 <p align="center">
 
-<img src="/img/typescript-deploy.jpg" />
+![](/img/typescript-deploy.jpg)
 
 </p>
 

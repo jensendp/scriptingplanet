@@ -106,7 +106,7 @@ Why not?
 
 We get back to the whole moving target analogy that I mentioned earlier.
 
-If you start adding support for TypeScript _and_ continue adding new features to the browser that these engineers have to support with TypeScript, the two ends will never meet.
+If you start adding support for TypeScript *and* continue adding new features to the browser that these engineers have to support with TypeScript, the two ends will never meet.
 
 Not to mention the fact that what is more important to these companies when it comes to users of their product? End-users or developers? I'm sure you probably know the answer to that one.
 
@@ -125,7 +125,9 @@ There are actually ways that you can have the heavy lifting of <a href="https://
 The typical flow of web applications looks something like this:
 
 <p align="center">
-<img src="./typescript-deploy.jpg" />
+
+<img src="/img/typescript-deploy.jpg" />
+
 </p>
 
 The web application is written in TypeScript. The build process takes place either on a development machine or more typically on a build server somewhere and the resulting application, transpiled into JavaScript is hosted in a CDN somewhere.

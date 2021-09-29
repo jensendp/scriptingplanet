@@ -137,7 +137,7 @@ Then, when the user opens the application in the browser, the browser downloads 
 This flow can change to something like this:
 
 <p align="center">
-<img src="./typescript-direct-deploy.jpg" />
+<img src="/img/typescript-direct-deploy.jpg" />
 </p>
 
 Where the TypeScript code is not transpiled in advance and just loaded into the CDN directly. From there, when the user opens the application in the browser, the browser downloads the application code from the CDN, transpiles it into JavaScript, loads the resulting JavaScript, and everyone is happy.

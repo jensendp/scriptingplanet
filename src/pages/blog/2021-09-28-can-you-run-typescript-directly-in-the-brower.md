@@ -86,7 +86,9 @@ Average salaries based on data at <a href="https://www.levels.fyi/" target="_bla
 
 Average salaries based on data at <a href="https://www.levels.fyi/" target="_blank">levels.fyi</a>
 
+<p align="center">
 <table><tbody><tr><td class="has-text-align-center" data-align="center"><strong>Company</strong></td><td class="has-text-align-center" data-align="center"><strong>QA Engineer</strong></td><td class="has-text-align-center" data-align="center"><strong>Number of QA Engineers</strong></td><td class="has-text-align-center" data-align="center"><strong>Total Cost</strong></td></tr><tr><td class="has-text-align-center" data-align="center">Google</td><td class="has-text-align-center" data-align="center">$140,000</td><td class="has-text-align-center" data-align="center">3</td><td class="has-text-align-center" data-align="center">$420,000</td></tr><tr><td class="has-text-align-center" data-align="center">Mozilla</td><td class="has-text-align-center" data-align="center">$120,000</td><td class="has-text-align-center" data-align="center">3</td><td class="has-text-align-center" data-align="center">$360,000</td></tr><tr><td class="has-text-align-center" data-align="center">Apple</td><td class="has-text-align-center" data-align="center">$130,000</td><td class="has-text-align-center" data-align="center">3</td><td class="has-text-align-center" data-align="center">$390,000</td></tr><tr><td class="has-text-align-center" data-align="center">Microsoft</td><td class="has-text-align-center" data-align="center">$120,000</td><td class="has-text-align-center" data-align="center">3</td><td class="has-text-align-center" data-align="center">$360,000</td></tr></tbody></table>
+</p>
 
 Average salaries based on data at <a href="https://www.levels.fyi/" target="_blank">levels.fyi</a>
 
@@ -124,11 +126,7 @@ There are actually ways that you can have the heavy lifting of <a href="https://
 
 The typical flow of web applications looks something like this:
 
-<p align="center">
-
 ![](/img/typescript-deploy.jpg)
-
-</p>
 
 The web application is written in TypeScript. The build process takes place either on a development machine or more typically on a build server somewhere and the resulting application, transpiled into JavaScript is hosted in a CDN somewhere.
 
